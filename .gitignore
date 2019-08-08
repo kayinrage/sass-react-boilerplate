@@ -2,6 +2,8 @@
 
 # dependencies
 /node_modules
+.idea
+.tool-versions
 /.pnp
 .pnp.js
 
